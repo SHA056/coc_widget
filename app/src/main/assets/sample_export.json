@@ -1,0 +1,23 @@
+{
+  "tag": "#SAMPLE123",
+  "buildings": [
+    { "data": 1000001, "lvl": 13 },
+    { "data": 1000008, "lvl": 17, "cnt": 6 },
+    { "data": 1000008, "lvl": 16, "timer": 5400 },
+    { "data": 1000012, "lvl": 11, "timer": 172800 },
+    { "data": 1000021, "lvl": 8, "timer": 389000 }
+  ],
+  "heroes": [
+    { "data": 28000000, "lvl": 70, "timer": 266400 },
+    { "data": 28000001, "lvl": 72 }
+  ],
+  "units": [
+    { "data": 4000008, "lvl": 8, "timer": 604800 }
+  ],
+  "spells": [
+    { "data": 26000000, "lvl": 9 }
+  ],
+  "buildings2": [
+    { "data": 1000033, "lvl": 5, "timer": 43200 }
+  ]
+}

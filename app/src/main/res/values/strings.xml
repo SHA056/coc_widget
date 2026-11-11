@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clash Upgrade Widget</string>
+    <string name="widget_description">Countdowns for your active upgrades</string>
+</resources>
